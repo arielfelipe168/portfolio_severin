@@ -1,0 +1,2 @@
+echo data/portfolio.sqlite > .gitignore
+echo data/*.sqlite >> .gitignore
